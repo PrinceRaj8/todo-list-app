@@ -1,76 +1,39 @@
+# 📌 To-Do List App  
 
-To-Do List App
-
-A simple and functional To-Do List App built with React.js. This app allows users to add, delete, and mark tasks as completed, while also saving tasks in localStorage so they persist even after refreshing the page.
-
+A simple and elegant **To-Do List** application built using **React.js**. This project allows users to add, delete, and manage their daily tasks efficiently with a clean and interactive UI.
 
 ---
 
-Features
+## 🎯 **Project Preview**  
 
-✅ Add New Tasks – Enter a task and click "Add" to include it in the list.
-✅ Mark as Completed – Click on a task to toggle its completed state (strikethrough).
-✅ Delete Tasks – Remove tasks easily with the delete button.
-✅ Data Persistence – Tasks are saved in localStorage and remain even after a page refresh.
-✅ Responsive Design – Works smoothly on mobile and desktop.
+### ✅ **Home Page (Empty List)**  
+![To-Do List App - Empty](./file-NMzLosNZpejjpbWSiYrc6j)  
 
-
----
-
-Project Structure
-
-todo-list-app/
-│── public/
-│── src/
-│   ├── components/
-│   │   ├── AddTaskForm.js
-│   │   ├── ToDoItem.js
-│   ├── App.js
-│   ├── index.js
-│   ├── styles.css
-│── package.json
-│── README.md
-
+### ✅ **Home Page (With Tasks)**  
+![To-Do List App - With Tasks](./file-BttvxWhDXYpkWLg7jXS6KN)  
 
 ---
 
-Technologies Used
+## 🚀 **Features**  
 
-React.js – Component-based UI development.
-
-JavaScript (ES6+) – Logic and event handling.
-
-CSS – For styling and layout.
-
-Local Storage – To store tasks permanently.
-
-
+✔ Add new tasks  
+✔ Remove tasks  
+✔ Interactive and user-friendly UI  
+✔ Fully responsive design  
+✔ Tasks persist using **localStorage**  
 
 ---
 
-Installation & Setup
+## 🛠️ **Technologies Used**  
 
-1️⃣ Clone the Repository
-
-git clone <repo-url>
-cd todo-list-app
-
-2️⃣ Install Dependencies
-
-npm install
-
-3️⃣ Start the Development Server
-
-npm start
-
-It will run on http://localhost:3000/.
-
+- **React.js** (for UI and component structure)  
+- **CSS** (for styling and responsiveness)  
+- **LocalStorage** (for task persistence)  
 
 ---
 
-How It Works
+## 🔧 **Installation & Setup**  
 
-1️⃣ Type a task in the input box and click "Add".
-2️⃣ Click on a task to mark it as completed (strikethrough).
-3️⃣ Click "X" to delete a task.
-4️⃣ Tasks remain saved even after reloading the page.
+1️⃣ Clone the repository:  
+```sh
+git clone https://github.com/PrinceRaj8/todo-list-app.git
