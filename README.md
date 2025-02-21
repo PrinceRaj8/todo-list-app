@@ -2,17 +2,7 @@
 
 A simple and elegant **To-Do List** application built using **React.js**. This project allows users to add, delete, and manage their daily tasks efficiently with a clean and interactive UI.
 
----
 
-## 🎯 **Project Preview**  
-
-### ✅ **Home Page (Empty List)**  
-![To-Do List App - Empty](./file-NMzLosNZpejjpbWSiYrc6j)  
-
-### ✅ **Home Page (With Tasks)**  
-![To-Do List App - With Tasks](./file-BttvxWhDXYpkWLg7jXS6KN)  
-
----
 
 ## 🚀 **Features**  
 
